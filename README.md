@@ -1,1 +1,1 @@
-# DivgunProjectWebScraping
+# exoplanet-pro
